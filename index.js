@@ -30,15 +30,20 @@ const promptUser = () => {
         message: 'Please enter the usage information',
       },
       {
+        type: 'checkbox',
+        name: 'license',
+        message: 'What license would you like for your project?',
+        choices: ['MIT', 'None', 'GPLv2','LGPLv3', 'AFL-3.0']
+      },
+      {
         type: 'input',
         name: 'contribution',
         message: 'What are the contribution guidelines?',
       },
       {
-        type: 'list',
-        name: 'license',
-        message: 'What license would you like for your project?',
-        choices: ['MIT', 'None', 'GPLv2','LGPLv3', 'AFL-3.0']
+        type: 'input', 
+        name: 'test',
+        message: 'How to test your project?'
       },
       {
         type: 'input',
@@ -47,9 +52,10 @@ const promptUser = () => {
       },
       {
         type: 'input', 
-        name: 'email',
+        name: 'contact',
         message: 'What is your email address?'
-      }
+      },
+
     ]);
   };
 

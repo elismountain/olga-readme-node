@@ -33,7 +33,7 @@ function generateMarkdown(answers) {
 
   If you have any further questions, please don't hesitate to contact me:
   - [GitHub](https://www.github.com/${answers.github})
-  - [Email me](mailto:${answers.email})
+  - [Email me](mailto:${answers.contact})
 
   ## License
   ${answers.license}`

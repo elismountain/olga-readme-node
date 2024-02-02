@@ -1,9 +1,9 @@
-# Readme generator
+# Olga
 
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-MIT,None,GPLv2,LGPLv3,AFL-3.0-yellow.svg)]
 
   ## Description 
-  Readme generator student project
+  olha
 
   ## Table of Contents: 
   - [Description](#Description)
@@ -15,10 +15,10 @@
   - [License](#License)
 
   ## Installation
-  none
+  olag
 
   ## Usage 
-  personal
+  olga
 
 
   ## Test
@@ -30,8 +30,8 @@
   ## Questions 
 
   If you have any further questions, please don't hesitate to contact me:
-  - [GitHub](https://www.github.com/elismountain)
-  - [Email me](mailto:echospb@mail.ru)
+  - [GitHub](https://www.github.com/q)
+  - [Email me](mailto:q)
 
   ## License
-  MIT
+  MIT,None,GPLv2,LGPLv3,AFL-3.0
