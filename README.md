@@ -1,9 +1,9 @@
-# Readme generator
+# Readme project
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description 
-  Readme generator app
+  Readme generator
 
   ## Table of Contents: 
   - [Description](#Description)
@@ -28,7 +28,7 @@
 
 
   ## Test
-  N/A
+  none
 
   ## Build with
 
@@ -36,7 +36,7 @@
    Java Script, HTML, CSS, Node, Git
 
   ## Contributing
-  edX
+  EdX
 
   ## Questions 
 
