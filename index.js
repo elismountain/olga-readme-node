@@ -21,8 +21,13 @@ const promptUser = () => {
       },
       {
         type: 'input',
+        name: 'github',
+        message: 'What is your GitHub username?',
+      },
+      {
+        type: 'input',
         name: 'installation',
-        message: 'Please enter your project GitHub name:',
+        message: 'Please enter your project repository name:',
       },
       {
         type: 'input',
@@ -44,18 +49,13 @@ const promptUser = () => {
 
       {
         type: 'input',
-        name: 'contribution',
+        name: 'contributing',
         message: 'What are the contribution guidelines?',
       },
       {
         type: 'input', 
         name: 'test',
         message: 'How to test your project?'
-      },
-      {
-        type: 'input',
-        name: 'github',
-        message: 'What is your GitHub username?',
       },
       {
         type: 'input', 
