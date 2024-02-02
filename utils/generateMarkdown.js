@@ -2,6 +2,8 @@
 function generateMarkdown(answers) {
   return `# ${answers.title}
 
+  ${getLicense(answers.license)}
+
   ## Description 
   ${answers.description}
 
@@ -37,6 +39,15 @@ function generateMarkdown(answers) {
   ${answers.license}`
 
 ;
+}
+
+
+function getLicense(license) {
+  if (license === 'None') {
+    return ""
+  } else {
+    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)]`
+  }
 }
 
 module.exports = generateMarkdown;
