@@ -30,7 +30,7 @@ function generateMarkdown(answers) {
 
 
   ## Test
-  N/A
+  ${answers.test}
 
   ## Build with
 
