@@ -1,9 +1,9 @@
-# Olga
+# Readme generator
 
-  [![License](https://img.shields.io/badge/License-MIT,None,GPLv2,LGPLv3,AFL-3.0-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description 
-  olha
+  Readme renerator app
 
   ## Table of Contents: 
   - [Description](#Description)
@@ -15,14 +15,17 @@
   - [License](#License)
 
   ## Installation
-  olag
+  none
 
   ## Usage 
-  olga
+  personal
 
 
   ## Test
   N/A
+
+  ## Build with
+   Java Script, HTML, CSS, Node, Git
 
   ## Contributing
   undefined
@@ -30,8 +33,8 @@
   ## Questions 
 
   If you have any further questions, please don't hesitate to contact me:
-  - [GitHub](https://www.github.com/q)
-  - [Email me](mailto:q)
+  - [GitHub](https://www.github.com/elismountain)
+  - [Email me](mailto:echospb@mail.ru)
 
   ## License
-  MIT,None,GPLv2,LGPLv3,AFL-3.0
+  MIT

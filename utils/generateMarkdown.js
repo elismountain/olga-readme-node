@@ -26,6 +26,9 @@ function generateMarkdown(answers) {
   ## Test
   N/A
 
+  ## Build with
+  ${answers.build}
+
   ## Contributing
   ${answers.contributing}
 

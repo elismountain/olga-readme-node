@@ -30,11 +30,18 @@ const promptUser = () => {
         message: 'Please enter the usage information',
       },
       {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'What license would you like for your project?',
         choices: ['MIT', 'None', 'GPLv2','LGPLv3', 'AFL-3.0']
       },
+      {
+        type: 'checkbox',
+        name: 'build',
+        message: 'What is your project build with?',
+        choices: [' Java Script', ' HTML',' CSS', ' Node', ' Git']
+      },
+
       {
         type: 'input',
         name: 'contribution',
