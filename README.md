@@ -1,21 +1,27 @@
-# Readme generator
+# Readme 
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description 
-  Readme renerator app
+  readme generator
 
   ## Table of Contents: 
   - [Description](#Description)
   - [Installation Instructions](#Installation)
   - [Usage Information](#Usage) 
   - [Contributing Guidelines](#Contributing)
-  - [Test Instructions](#Test) 
+  - [Test Instructions](#Test)
   - [Questions & Contact Info](#Questions)
   - [License](#License)
 
   ## Installation
-  none
+
+  1. Clone the repo
+     git clone https://github.com/elismountain/olga-readme-node.git
+
+  2. Install NPM packages
+     npm install  
+  
 
   ## Usage 
   personal
@@ -25,6 +31,8 @@
   N/A
 
   ## Build with
+
+  This project was build with: 
    Java Script, HTML, CSS, Node, Git
 
   ## Contributing

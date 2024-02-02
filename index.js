@@ -22,7 +22,7 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'installation',
-        message: 'Please enter the installation instructions:',
+        message: 'Please enter your project GitHub name:',
       },
       {
         type: 'input',

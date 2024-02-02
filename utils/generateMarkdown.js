@@ -12,12 +12,18 @@ function generateMarkdown(answers) {
   - [Installation Instructions](#Installation)
   - [Usage Information](#Usage) 
   - [Contributing Guidelines](#Contributing)
-  - [Test Instructions](#Test) 
+  - [Test Instructions](#Test)
   - [Questions & Contact Info](#Questions)
   - [License](#License)
 
   ## Installation
-  ${answers.installation}
+
+  1. Clone the repo
+     git clone https://github.com/${answers.github}/${answers.installation}.git
+
+  2. Install NPM packages
+     npm install  
+  
 
   ## Usage 
   ${answers.usage}
@@ -27,6 +33,8 @@ function generateMarkdown(answers) {
   N/A
 
   ## Build with
+
+  This project was build with: 
   ${answers.build}
 
   ## Contributing
