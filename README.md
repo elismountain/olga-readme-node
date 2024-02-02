@@ -1,9 +1,9 @@
 # Readme generator
 
-  [![License](https://img.shields.io/badge/License-undefined-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description 
-  Readme generator app
+  Readme generator student project
 
   ## Table of Contents: 
   - [Description](#Description)
@@ -30,8 +30,8 @@
   ## Questions 
 
   If you have any further questions, please don't hesitate to contact me:
-  - [GitHub](https://www.github.com/elismountan)
-  - [Email me](mailto:none)
+  - [GitHub](https://www.github.com/elismountain)
+  - [Email me](mailto:echospb@mail.ru)
 
   ## License
-  undefined
+  MIT
